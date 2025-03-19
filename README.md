@@ -1,4 +1,4 @@
 # Classification_agiculture
 
 
-Cmparing dffrent classification methods to find the optimal for agriculture exploitation 
+In this project, the goal was to identify the best classification method for applications in agricultural exploitation
